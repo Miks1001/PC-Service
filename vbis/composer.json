@@ -1,0 +1,18 @@
+{
+    "name": "mikac/vbis",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "mihajlo-stankovic"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-mysqli": "*"
+
+    }
+}
